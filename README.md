@@ -23,6 +23,7 @@ Busco mi primera oportunidad formal en tecnología como **Desarrollador .NET Jun
 ## 📫 Contacto
 
 - Email: santi543luque@gmail.com
+- LinkedIn: [santiago-luque](https://www.linkedin.com/in/santiago-luque-1762722b5/)
 
 ---
 
