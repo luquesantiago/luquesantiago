@@ -13,10 +13,12 @@ Busco mi primera oportunidad formal en tecnología como **Desarrollador .NET Jun
 
 ## 📌 Proyectos destacados
 
-- [**sistema-control-stock**](https://github.com/luquesantiago/sistema-control-stock) — Sistema de gestión de stock en C# con arquitectura en capas (presentación, lógica, datos, servicios) y SQL Server.
+- [**sistema-control-stock**](https://github.com/luquesantiago/sistema-control-stock) — Sistema de stock, compras y ventas en C# WinForms con arquitectura en capas, SQL Server y procedimientos almacenados.
+- [**Tp_AppsMoviles_GrupoF**](https://github.com/luquesantiago/Tp_AppsMoviles_GrupoF) — App Android en Kotlin (MVVM, Room, Retrofit) con la API de TMDB: catálogo de películas, trailers y compras.
 - [**tp-concurrencia-go**](https://github.com/luquesantiago/tp-concurrencia-go) — Procesamiento concurrente de transacciones con goroutines, canales y timeouts con `select`.
+- [**sistema-gestion-inversores**](https://github.com/luquesantiago/sistema-gestion-inversores) — Sistema de consola en C con login por roles, memoria dinámica y persistencia en archivos.
 - [**buscaminas**](https://github.com/luquesantiago/buscaminas) — Buscaminas en JavaScript puro. [Jugalo acá](https://luquesantiago.github.io/buscaminas/).
-- [**Tp_AppsMoviles_GrupoF**](https://github.com/luquesantiago/Tp_AppsMoviles_GrupoF) — App Android en Kotlin y XML, desarrollada en equipo para el seminario de aplicaciones móviles.
+- [**estructuras-datos-c**](https://github.com/luquesantiago/estructuras-datos-c) — Listas, pilas, colas, árboles y estructuras genéricas con `void*` en C.
 
 ## 📫 Contacto
 
