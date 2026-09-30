@@ -20,8 +20,6 @@ Busco mi primera oportunidad formal en tecnología como **Desarrollador .NET Jun
 
 Trabajo integrador de Prácticas Pre Profesionales (UNLa): atención por WhatsApp con un asistente de IA, derivación a operadores y un panel de supervisión con aprobación humana.
 
-**Mi parte:** el entorno de desarrollo con Docker Compose, la base del backend (Express + Prisma), las migraciones SQL del esquema, la documentación y el flujo de trabajo con ramas y pull requests.
-
 ### [sistema-control-stock](https://github.com/luquesantiago/sistema-control-stock)
 *C# · WinForms · SQL Server · ADO.NET*
 
